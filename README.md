@@ -3,7 +3,6 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <i>Vinicius Caon Ambrosio</i> tenho 16 anos e  estudo Desenvolvimento Web na <a href="https://www.alura.com.br"><i>Alura</i></a> e na <a href="https://supergeeks.com.br"><i>SuperGeeks</i></a>. 😃️</p>
    
 
 <div align="center">
