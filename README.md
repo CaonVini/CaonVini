@@ -1,7 +1,13 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=CaonVini&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Vinicius!
+# Olá 👋 Sou o Vinicius! 
+Sou estudante de desenvolvimento de software, focado em explorar e aplicar soluções inovadoras em projetos pessoais e acadêmicos.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CaonVini&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Sou estudante <br/> E presento ser desenvolvedor back-end</p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaonVini1&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaonVini1&theme=dark&hide_border=true" width="400">
+</p>
+
+---
