@@ -7,7 +7,8 @@ Sou estudante de desenvolvimento de software, focado em explorar e aplicar solu√
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaonVini&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaonVini&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaonVini&layout=compact&theme=bear" width="356">
+    
 </p>
 
 ---
@@ -29,8 +30,7 @@ Sou estudante de desenvolvimento de software, focado em explorar e aplicar solu√
 
   <div>
     
-  ![Estat√≠sticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=CaonVini&layout=compact&theme=bear)
-    
+
   </div>
 
 </div>
